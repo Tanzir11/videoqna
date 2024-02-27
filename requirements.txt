@@ -1,0 +1,4 @@
+fastapi[all]
+langchain
+langchain_openai 
+faiss-cpu
