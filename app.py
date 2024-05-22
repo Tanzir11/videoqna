@@ -28,7 +28,7 @@ Answer question based only on question parameters which are given.
 Make sure to answer what has been asked.
 """
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 embeddings = OpenAIEmbeddings()
 
